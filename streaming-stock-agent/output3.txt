@@ -1,0 +1,48 @@
+Session: cli_session
+Query: Compare Apple and Tesla stock
+------------------------------------------------------------
+
+[Tool calls starting...]
+
+[Calling tool: compare_stocks with args {'ticker1': 'AAPL', 'ticker2': 'TSLA'}]
+[Tool calls completed]
+
+Here’s a comparison of **Apple (AAPL)** and **Tesla (TSLA)** as of March 17, 2026 (14:41 ET):
+
+---
+
+### **Key Metrics**  
+| **Metric**               | **Apple (AAPL)**       | **Tesla (TSLA)**       |  
+|--------------------------|------------------------|------------------------|  
+| **Current Price**        | $254.36               | $398.21               |  
+| **Previous Close**       | $252.82               | $395.56               |  
+| **Change (24 hr)**       | +$1.54 (0.61%)        | +$2.65 (0.67%)        |  
+| **Market Cap**           | $3.74T                | $1.49T                |  
+| **P/E Ratio**            | 32.24                 | 372.16                |  
+| **Sector**               | Technology            | Consumer Cyclical      |  
+
+---
+
+### **Detailed Analysis**  
+1. **Price**:  
+   - Tesla's stock is significantly more expensive per share ($398.21 vs. Apple's $254.36), but Apple has a much larger market cap.  
+   - Both stocks rose slightly in the last 24 hours (0.61% for Apple, 0.67% for Tesla).  
+
+2. **Valuation**:  
+   - Tesla’s massive P/E ratio (372.16) suggests investors expect rapid future growth, while Apple’s P/E ratio (32.24) is in line with mature tech companies.  
+
+3. **Sectors**:  
+   - Apple operates in **Technology** (consumer electronics, software, services).  
+   - Tesla is in **Consumer Cyclical** (automotive, energy storage).  
+
+4. **Performance**:  
+   - Tesla’s stock has outperformed Apple over the past 30 days in terms of percentage gain, though Apple’s total revenue and profit are far larger historically.  
+
+---
+
+**Source**: Yahoo Finance (data delayed).  
+Let me know if you’d like a breakdown of historical performance, revenue, or risk factors!
+[Done]
+
+============================================================
+

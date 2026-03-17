@@ -1,0 +1,16 @@
+Session: cli_session
+Query: What is the current price of Apple stock?
+------------------------------------------------------------
+
+[Tool calls starting...]
+
+[Calling tool: get_stock_price with args {'ticker': 'AAPL'}]
+[Tool calls completed]
+
+The current price of Apple (AAPL) is **$254.35** as of March 17, 2026 (14:39 ET). This represents an increase of **$1.53 (0.61%)** from its previous close of $252.82. The market is currently open (REGULAR session). 
+
+Prices are sourced from Yahoo Finance and may have a slight delay. Let me know if you'd like additional details!
+[Done]
+
+============================================================
+

@@ -1,0 +1,16 @@
+Session: cli_session
+Query: How has Tesla changed in the last 30 days?
+------------------------------------------------------------
+
+[Tool calls starting...]
+
+[Calling tool: get_stock_history with args {'days': 30, 'ticker': 'TSLA'}]
+[Tool calls completed]
+
+Over the past 30 days, Tesla (TSLA) has seen its stock price decline from **$410.63** on February 17, 2026, to **$398.39** as of March 17, 2026, representing a **-2.98% change (-$12.24)**. The stock reached an intra-period high of **$420.34** and a low of **$381.40**, with an average daily trading volume of **56.7 million shares**. 
+
+This data reflects a slightly bearish trend over the month. Prices are sourced from Yahoo Finance and may have a slight delay. Would you like additional analysis or details?
+[Done]
+
+============================================================
+
