@@ -6,7 +6,6 @@ readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
     "anthropic>=0.40.0",
-    "claude-agent-sdk>=0.1.0",
     "strands-agents>=1.0.0",
     "strands-agents-tools>=0.1.0",
     "litellm>=1.0.0",
@@ -21,6 +20,11 @@ dependencies = [
     "fastapi>=0.115.0",
     "uvicorn>=0.32.0",
     "yfinance>=0.2.50",
+]
+
+[dependency-groups]
+agent = [
+    "claude-agent-sdk>=0.1.0",
 ]
 
 [build-system]
